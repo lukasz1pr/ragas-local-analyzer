@@ -1,0 +1,6 @@
+streamlit
+pandas
+ragas
+datasets
+langchain-community
+langchain-google-genai
